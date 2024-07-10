@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-color: #61acc9;
+
+}
+#height{
+    height: 30px;
+    width: 200px;
+    border: solid black;
+    font-weight: bold;
+}
+#weight{
+    height: 30px;
+    width: 200px;
+    border: solid black;
+    font-weight: bold;
+}
+#btn{
+    height: 30px;
+    width: 100px;
+    border: solid black;
+    font-weight: bold;
+}
+#result{
+    font-weight: bold;
+}
